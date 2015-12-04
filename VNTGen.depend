@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1438225348 source:c:\users\erik\documents\programs\vntgen\vntgen\main.cpp
+	<iostream>
+	<stdio.h>
+	<fstream>
+	<string>
+	<time.h>
+
